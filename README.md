@@ -20,7 +20,8 @@ The internship covers:
 ## Repository Structure
 
 Daily_Base_Tasks/
-
+day_01_python_fundamentals_environment_setup/
+day_o2_python_programming_&_working_with_data/
 
 ---
 
