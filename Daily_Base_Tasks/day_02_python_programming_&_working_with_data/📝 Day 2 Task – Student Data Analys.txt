@@ -1,0 +1,33 @@
+📝 Day 2 Task – Student Data Analysis
+
+Create a Python project that stores basic student information and performs simple analysis.
+
+Create a dataset containing at least 10 students with:
+
+* Name
+* Age
+* Course
+* Marks
+
+You may initially create the data using Python dictionaries/lists.
+
+Then use Pandas to convert the data into a DataFrame.
+
+Your program should:
+
+1️⃣ Display all students
+2️⃣ Display students with marks above 70
+3️⃣ Calculate the average marks
+4️⃣ Find the student with the highest marks
+5️⃣ Find the student with the lowest marks
+6️⃣ Display the total number of students
+
+📌 Requirements
+
+✅ Use Python
+✅ Use Pandas
+✅ Create a DataFrame
+✅ Perform basic filtering
+✅ Perform basic calculations
+✅ Keep the code organized and readable
+✅ Add comments where necessary
