@@ -33,7 +33,7 @@ day03_student_performance_analysis/
 │
 ├── day03_student_performance_analysis.ipynb
 ├── student_performance_dataset.csv
-├── output.png
+├── Day 3 Tasks.txt
 └── README.md
 ```
 
