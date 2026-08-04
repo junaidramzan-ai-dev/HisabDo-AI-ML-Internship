@@ -1,0 +1,82 @@
+📢 Day 4 Task – AI/ML Internship | HisabDo
+
+Assalam-o-Alaikum Everyone,
+
+Welcome to Day 4 of the AI/ML Internship Program.
+
+Today you will build your first Machine Learning model.
+
+🎯 Task – Student Performance Prediction
+
+Use the student performance dataset from Day 3 or create a similar dataset.
+
+Your goal is to predict whether a student is likely to Pass or Fail.
+
+📌 Steps
+
+1️⃣ Load the dataset using Pandas
+
+2️⃣ Clean the data
+
+3️⃣ Select useful features such as:
+
+* Attendance
+* Assignment Score
+* Midterm Score
+* Final Score
+
+4️⃣ Create a target column:
+
+Pass = 1
+Fail = 0
+
+5️⃣ Split the data into:
+
+* Training set
+* Testing set
+
+6️⃣ Train a basic classification model using Scikit-learn.
+
+You may use:
+
+Logistic Regression
+
+7️⃣ Make predictions on test data.
+
+8️⃣ Evaluate the model using:
+
+* Accuracy
+* Confusion Matrix
+* Classification Report
+
+📊 Deliverables
+
+Your GitHub repository must contain:
+
+✅ Dataset
+✅ Jupyter Notebook/Python file
+✅ Data preprocessing
+✅ Model training
+✅ Predictions
+✅ Evaluation results
+✅ At least 2 visualizations
+✅ README
+
+In README, explain in simple words:
+
+* What problem you solved
+* What features you used
+* What model you selected
+* Accuracy achieved
+* What you learned
+
+⚠️ Important
+
+Do not simply copy a complete ML project from the internet.
+
+Understand every step of the model.
+
+Day 4 Focus:
+👉 Data → Train/Test Split → Classification → Model → Evaluation
+
+Good luck! 🤖📊
