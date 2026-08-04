@@ -1,0 +1,67 @@
+📢 Day 3 Task – AI/ML Internship | HisabDo
+
+🎯 Task – Student Performance Analysis
+
+Use Python and Pandas to analyze a student performance dataset.
+
+You can create your own dataset with at least 30 records.
+
+Include fields such as:
+
+* Student Name
+* Age
+* Gender
+* Course
+* Attendance
+* Assignment Score
+* Midterm Score
+* Final Score
+
+📝 Your Program Should
+
+1️⃣ Load the dataset
+
+2️⃣ Display basic information about the dataset
+
+3️⃣ Find average scores
+
+4️⃣ Find the highest and lowest scores
+
+5️⃣ Identify students with attendance below 75%
+
+6️⃣ Identify students who are at risk of failing
+
+7️⃣ Calculate the average score by course
+
+8️⃣ Find the relationship between attendance and final score
+
+9️⃣ Handle missing or invalid values
+
+📊 Visualization
+
+Create at least 3 charts, such as:
+
+* Score distribution
+* Average score by course
+* Attendance vs final score
+
+Use Matplotlib.
+
+📤 Submission
+
+Create a GitHub repository containing:
+
+✅ Dataset
+✅ Python code/notebook
+✅ Charts
+✅ README
+✅ Short conclusion explaining your findings
+
+Send the GitHub repository link along with your completed files to:
+
+📧 hisabdo.app@gmail.com
+
+Day 3 Focus:
+👉 Dataset → Pandas → Data Cleaning → Analysis → Visualization
+
+Good luck! 🤖📊
