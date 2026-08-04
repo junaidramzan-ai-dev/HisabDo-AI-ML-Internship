@@ -21,7 +21,8 @@ The internship covers:
 
 Daily_Base_Tasks/
 day_01_python_fundamentals_environment_setup/
-day_o2_python_programming_&_working_with_data/
+day_02_python_programming_&_working_with_data/
+day_03_student_performance_analysis/
 
 ---
 
