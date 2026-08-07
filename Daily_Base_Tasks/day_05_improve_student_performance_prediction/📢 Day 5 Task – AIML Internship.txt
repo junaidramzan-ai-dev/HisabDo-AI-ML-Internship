@@ -1,0 +1,77 @@
+📢 Day 5 Task – AI/ML Internship | HisabDo
+
+Welcome to Day 5 of the AI/ML Internship Program.
+
+Yesterday you built your first classification model. Today you will learn how to improve and compare ML models.
+
+🎯 Task – Model Comparison
+
+Continue with your Student Performance Prediction project.
+
+Train at least two different classification algorithms.
+
+For example:
+
+* Logistic Regression
+* Decision Tree
+
+📝 Your Task
+
+1️⃣ Prepare the dataset
+
+2️⃣ Clean the data
+
+3️⃣ Split into training/testing sets
+
+4️⃣ Train Model 1
+
+5️⃣ Train Model 2
+
+6️⃣ Generate predictions
+
+7️⃣ Compare their performance
+
+📊 Evaluate Both Models
+
+Calculate:
+
+* Accuracy
+* Precision
+* Recall
+* F1 Score
+* Confusion Matrix
+
+Create a comparison table.
+
+Example:
+
+Model	Accuracy	Precision	Recall	F1
+Logistic Regression				
+Decision Tree				
+
+🧠 Analysis
+
+Write a short explanation:
+
+* Which model performed better?
+* Why do you think it performed better?
+* Was the dataset balanced?
+* What could improve the results?
+
+📤 Submission
+
+GitHub repository should contain:
+
+✅ Dataset
+✅ Notebook/Python code
+✅ Both models
+✅ Evaluation results
+✅ Visualizations
+✅ README
+
+Important: Do not simply choose the model with the highest accuracy. Explain the other evaluation metrics as well.
+
+Day 5 Focus:
+👉 Multiple Models → Evaluation → Comparison → ML Reasoning
+
+Good luck! 🤖📊
