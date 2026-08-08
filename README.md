@@ -53,4 +53,5 @@ day_05_student_performance_predict_using_DecisionTree_LogisticRegression/
 - Day 03
 - Day 04
 - Day 05
+- Day 06
 ...
