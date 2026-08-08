@@ -1,0 +1,48 @@
+📢 Day 6 Task – AI/ML Internship | HisabDo
+
+Assalam-o-Alaikum Everyone,
+
+Welcome to Day 6 of the AI/ML Internship Program.
+
+Today you will improve your ML model through Feature Engineering and Hyperparameter Tuning.
+
+🎯 Task
+
+Continue your Student Performance Prediction project.
+
+Perform:
+
+* Data Cleaning
+* Feature Selection
+* Feature Scaling
+* Train-Test Split
+* Hyperparameter Tuning using GridSearchCV
+* Compare tuned model with previous model
+
+Evaluation
+
+Calculate:
+
+* Accuracy
+* Precision
+* Recall
+* F1 Score
+* ROC-AUC (if applicable)
+
+Create graphs comparing both models.
+
+📤 Submission
+
+Upload:
+
+* Dataset
+* Notebook
+* Comparison Charts
+* README
+
+📧 hisabdo.app@gmail.com
+
+Day 6 Focus:
+👉 Feature Engineering → Model Optimization → Hyperparameter Tuning
+
+Good luck! 🤖📊
